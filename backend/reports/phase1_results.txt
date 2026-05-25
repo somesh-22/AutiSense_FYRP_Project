@@ -1,0 +1,33 @@
+PHASE 1: TODDLER AUTISM SCREENING MODEL
+=====================================
+
+Accuracy: 100.00%
+Average Screening Risk: 68.59%
+
+Classification Report:
+              precision    recall  f1-score   support
+
+       False       1.00      1.00      1.00        65
+        True       1.00      1.00      1.00       146
+
+    accuracy                           1.00       211
+   macro avg       1.00      1.00      1.00       211
+weighted avg       1.00      1.00      1.00       211
+
+Confusion Matrix:
+[[ 65   0]
+ [  0 146]]
+
+Feature Importance Ranking:
+     Feature  Coefficient  Absolute Importance
+1         A2     1.762021             1.762021
+8         A9     1.702292             1.702292
+7         A8     1.559908             1.559908
+6         A7     1.539235             1.539235
+4         A5     1.537605             1.537605
+3         A4     1.521784             1.521784
+9        A10     1.512216             1.512216
+5         A6     1.509942             1.509942
+0         A1     1.401362             1.401362
+2         A3     1.312931             1.312931
+10  Age_Mons     0.081153             0.081153

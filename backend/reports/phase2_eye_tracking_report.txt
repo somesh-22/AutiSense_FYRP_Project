@@ -1,0 +1,7 @@
+PHASE 2: EYE TRACKING ANALYSIS
+=================================
+
+Generated: 2026-05-24 22:21:31.727400
+
+Average Eye Contact Score: 98.00%
+Attention Classification: Direct Eye Contact
