@@ -1,18 +1,21 @@
 streamlit==1.49.1
+
 numpy==1.26.4
-pandas==2.2.3
+pandas==2.2.2
 scikit-learn==1.5.2
+
 plotly==6.0.1
 joblib==1.5.1
-matplotlib==3.10.3
+matplotlib==3.8.4
 
 opencv-python-headless==4.10.0.84
 mediapipe==0.10.14
 streamlit-webrtc==0.63.4
-av==14.4.0
+av==12.3.0
 
-reportlab==4.4.3
-deepface==0.0.95
+reportlab==4.2.2
+
 tensorflow==2.16.1
+deepface==0.0.95
 
-sympy==1.14.0
+sympy==1.13.1
