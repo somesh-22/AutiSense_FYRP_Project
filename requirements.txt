@@ -7,7 +7,9 @@ joblib==1.4.2
 matplotlib==3.10.1
 opencv-python-headless==4.11.0.86
 reportlab==4.2.5
-tensorflow==2.19.0
+streamlit-webrtc==0.62.4
 deepface==0.0.93
+tensorflow==2.19.0
 Pillow==11.2.1
+av==14.4.0
 protobuf<5
