@@ -13,3 +13,4 @@ tensorflow==2.19.0
 Pillow==11.2.1
 av==14.4.0
 protobuf<5
+sympy==1.14.0
