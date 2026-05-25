@@ -1,3 +1,0 @@
-ffmpeg
-pkg-config
-build-essential
